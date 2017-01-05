@@ -1,3 +1,6 @@
-hello
-friend
-13
+hello;
+
+ggg;
+
+world;
+
