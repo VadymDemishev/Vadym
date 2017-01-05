@@ -1,9 +1,2 @@
 hello
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-ggg
->>>>>>> origin/master
-=======
-world
->>>>>>> feuture/goodbye
+friend
